@@ -92,7 +92,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-      <div className="grid grid-cols- md:gap-2 gap-14  mt-20">
+      <div className="grid grid-cols-9 md:gap-2 gap-14  mt-20">
         <div className=" col-span-9 md:col-span-3 flex flex-row gap-8">
           <Image src={image01} alt="image01" className="h-full w-[150px]" />
           <div className="flex flex-col gap-4">
