@@ -56,7 +56,7 @@ export default function Home() {
                 the power of the platforms back into the hands of the people.
                 But is it really fulfilling its promise?
               </p>
-              <button className="px-10 py-4 bg-black text-white md:w-1/3 w-1/2 hover:bg-orange-500 hover:text-black">
+              <button className="px-10 py-4 bg-black text-white  md:w-1/2 hover:bg-orange-500 hover:text-black">
                 READ MORE
               </button>
             </div>
